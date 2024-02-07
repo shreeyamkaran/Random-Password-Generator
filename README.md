@@ -1,3 +1,5 @@
-<h1>Random Password Generator<h1>
-
-<p>It generates random password everytime the page reloads, the slider changes, the checkboxes are clicked</p>
+# Random Password Generator
+### It generates random password, everytime when -
+- The page reloads
+- Slider value is changed
+- Checkboxes are checked or unchecked
